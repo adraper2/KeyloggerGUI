@@ -1,10 +1,19 @@
 import tkinter as tk
 from tkinter import ttk
-import keylogger
+import subprocess
+import difflib
+import datetime
+import os
 
+# global vars
 LARGE_FONT = ("Verdana", 12)
 MEDIUM_FONT = ("Verdana", 10)
+fablesFile = open("fables.txt")
+fables = fablesFile.read().split('\n\n')
+fablesFile.close()
+fableCount = 0
 ID = None
+Keylogger = None
 
 class KeyloggerGUI(tk.Tk):
 	def __init__(self, *args, **kwargs):
@@ -22,7 +31,7 @@ class KeyloggerGUI(tk.Tk):
 
 		#initialize arbitrary pages
 
-		for fr in (PageStart, PageEnroll):
+		for fr in (PageStart, PageFinished):
 			frame = fr(self.container, self)
 			self.frames[fr] = frame
 			frame.grid(row=0, column=0, sticky="nsew")
@@ -71,12 +80,84 @@ class PageStart(tk.Frame):
 		finishButton = ttk.Button(self, text = "Cancel", command = lambda: self.quit)
 		finishButton.pack(pady=10)
 
+	# sets up ID, directory, and takes user to next page
+	def enrollUser(self, controller):
+		uid = self.session.get()
+		my_year = datetime.datetime.now().year
+		julian = datetime.datetime.now().timetuple().tm_yday
+
+		# final string to produce primary key
+		global ID
+		ID = "data/"+str(my_year) + "-" + str(julian) + "-"+ str(uid).zfill(3) + '.log'
+
+		if(os.path.exists(ID)) == False:
+			file = open(ID, 'w+')
+			file.write("Log for: "+self.user.get()+"\n")
+			file.close()
+			controller.create_other_pages(controller.container,PageEnroll)
+			controller.show_frame(PageEnroll)
+
+		else:
+			print("It appears this session already exists...")
+
 # start page UI (landing page)
 class PageEnroll(tk.Frame):
 
 	def __init__(self, parent, controller):
 		tk.Frame.__init__(self, parent)
 
+		print(ID)
+		self.keylogProcess = subprocess.Popen(['python3', 'keylogger.py', ID])
+
+		self.fableText = tk.Label(self, text = fables[fableCount])
+		self.fableText.pack(pady=10, padx=10)
+
+		self.collect = tk.Entry(self, width=50)
+		self.collect.pack()
+		self.collect.focus_set()
+
+		self.submit =  tk.Button(self, text = "Submit", command = lambda: self.submitText())
+		self.submit.pack(pady=10, padx=10)
+
+		self.incorrect = tk.Label(self, text=" ")
+		self.incorrect.pack()
+
+	def submitText(self):
+		check = self.collect.get()
+		if check == fables[fableCount].replace('\n', ' '):
+			self.updateFable(controller)
+		else:
+			self.incorrect.config(text="Check your typing. There might be a typo.")
+			print(check)
+			print(fables[fableCount].replace('\n', ' '))
+			for i,s in enumerate(difflib.ndiff(check, fables[fableCount].replace('\n', ' '))):
+				if s[0]==' ':
+					continue
+				elif s[0]=='-':
+					print(u'Delete "{}" from position {}'.format(s[-1],i))
+				elif s[0]=='+':
+					print(u'Add "{}" to position {}'.format(s[-1],i))    
+			print()
+
+	def updateFable(self, controller):
+		global fableCount
+		if fableCount < 3:
+			fableCount += 1
+			self.fableText.config(text=fables[fableCount])
+			self.collect.delete(0, 'end')
+			self.incorrect.config(text="")
+		else:
+			if(self.keylogProcess.poll()==None):
+				self.keylogProcess.kill()
+			controller.show_frame(PageFinished)
+
+# start page UI (landing page)
+class PageFinished(tk.Frame):
+
+	def __init__(self, parent, controller):
+		tk.Frame.__init__(self, parent)
+
+		finished = tk.Label(self, text="You have finished enrollment!")
 
 # global commands for debugging use
 def addCommand():
