@@ -116,13 +116,13 @@ class PageEnroll(tk.Frame):
 		self.collect.pack()
 		self.collect.focus_set()
 
-		self.submit =  tk.Button(self, text = "Submit", command = lambda: self.submitText())
+		self.submit =  tk.Button(self, text = "Submit", command = lambda: self.submitText(controller))
 		self.submit.pack(pady=10, padx=10)
 
 		self.incorrect = tk.Label(self, text=" ")
 		self.incorrect.pack()
 
-	def submitText(self):
+	def submitText(self, controller):
 		check = self.collect.get()
 		if check == fables[fableCount].replace('\n', ' '):
 			self.updateFable(controller)
@@ -158,6 +158,7 @@ class PageFinished(tk.Frame):
 		tk.Frame.__init__(self, parent)
 
 		finished = tk.Label(self, text="You have finished enrollment!")
+		finished.pack(pady=50)
 
 # global commands for debugging use
 def addCommand():

@@ -1,0 +1,1215 @@
+Log for: Sophia Abraham 
+2019-11-21 12:02:54,492: special: Key.shift pressed
+2019-11-21 12:02:54,874: T pressed
+2019-11-21 12:02:54,945: T released
+2019-11-21 12:02:54,969: special: Key.shift released
+2019-11-21 12:02:55,041: h pressed
+2019-11-21 12:02:55,065: e pressed
+2019-11-21 12:02:55,097: h released
+2019-11-21 12:02:55,120: e released
+2019-11-21 12:02:55,121: special: Key.space pressed
+2019-11-21 12:02:55,168: special: Key.space released
+2019-11-21 12:02:55,722: i pressed
+2019-11-21 12:02:55,793: i released
+2019-11-21 12:02:55,905: t pressed
+2019-11-21 12:02:56,033: t released
+2019-11-21 12:02:56,033: s pressed
+2019-11-21 12:02:56,089: s released
+2019-11-21 12:02:56,754: y pressed
+2019-11-21 12:02:56,841: y released
+2019-11-21 12:02:56,841: special: Key.space pressed
+2019-11-21 12:02:56,896: special: Key.space released
+2019-11-21 12:02:56,953: b pressed
+2019-11-21 12:02:57,017: b released
+2019-11-21 12:02:57,089: i pressed
+2019-11-21 12:02:57,161: i released
+2019-11-21 12:02:57,273: t pressed
+2019-11-21 12:02:57,329: t released
+2019-11-21 12:02:57,385: s pressed
+2019-11-21 12:02:57,465: s released
+2019-11-21 12:02:57,497: y pressed
+2019-11-21 12:02:57,561: y released
+2019-11-21 12:02:57,593: special: Key.space pressed
+2019-11-21 12:02:57,632: special: Key.space released
+2019-11-21 12:02:57,673: s pressed
+2019-11-21 12:02:57,745: s released
+2019-11-21 12:02:57,769: p pressed
+2019-11-21 12:02:57,849: p released
+2019-11-21 12:02:57,921: i pressed
+2019-11-21 12:02:57,993: i released
+2019-11-21 12:02:58,017: d pressed
+2019-11-21 12:02:58,065: e pressed
+2019-11-21 12:02:58,088: d released
+2019-11-21 12:02:58,201: r pressed
+2019-11-21 12:02:58,224: e released
+2019-11-21 12:02:58,272: r released
+2019-11-21 12:02:58,289: special: Key.space pressed
+2019-11-21 12:02:58,368: special: Key.space released
+2019-11-21 12:02:58,593: w pressed
+2019-11-21 12:02:58,769: w released
+2019-11-21 12:02:58,985: special: Key.backspace pressed
+2019-11-21 12:02:59,049: special: Key.backspace released
+2019-11-21 12:02:59,105: special: Key.backspace pressed
+2019-11-21 12:02:59,177: special: Key.backspace released
+2019-11-21 12:02:59,193: c pressed
+2019-11-21 12:02:59,240: c released
+2019-11-21 12:02:59,626: special: Key.backspace pressed
+2019-11-21 12:02:59,713: special: Key.backspace released
+2019-11-21 12:02:59,818: special: Key.space pressed
+2019-11-21 12:02:59,889: special: Key.space released
+2019-11-21 12:02:59,889: c pressed
+2019-11-21 12:02:59,953: c released
+2019-11-21 12:02:59,977: l pressed
+2019-11-21 12:03:00,033: l released
+2019-11-21 12:03:00,105: i pressed
+2019-11-21 12:03:00,177: i released
+2019-11-21 12:03:00,225: m pressed
+2019-11-21 12:03:00,297: m released
+2019-11-21 12:03:00,377: b pressed
+2019-11-21 12:03:00,440: b released
+2019-11-21 12:03:00,457: e pressed
+2019-11-21 12:03:00,520: e released
+2019-11-21 12:03:00,714: d pressed
+2019-11-21 12:03:00,770: d released
+2019-11-21 12:03:00,817: special: Key.space pressed
+2019-11-21 12:03:00,889: special: Key.space released
+2019-11-21 12:03:00,929: u pressed
+2019-11-21 12:03:00,985: u released
+2019-11-21 12:03:01,073: p pressed
+2019-11-21 12:03:01,137: p released
+2019-11-21 12:03:01,169: special: Key.space pressed
+2019-11-21 12:03:01,224: special: Key.space released
+2019-11-21 12:03:01,265: t pressed
+2019-11-21 12:03:01,368: t released
+2019-11-21 12:03:01,401: h pressed
+2019-11-21 12:03:01,449: e pressed
+2019-11-21 12:03:01,480: h released
+2019-11-21 12:03:01,560: e released
+2019-11-21 12:03:01,561: special: Key.space pressed
+2019-11-21 12:03:01,584: special: Key.space released
+2019-11-21 12:03:01,609: w pressed
+2019-11-21 12:03:01,672: w released
+2019-11-21 12:03:01,769: a pressed
+2019-11-21 12:03:01,841: a released
+2019-11-21 12:03:01,865: t pressed
+2019-11-21 12:03:01,920: t released
+2019-11-21 12:03:01,961: e pressed
+2019-11-21 12:03:02,057: r pressed
+2019-11-21 12:03:02,088: e released
+2019-11-21 12:03:02,136: r released
+2019-11-21 12:03:02,449: s pressed
+2019-11-21 12:03:02,520: s released
+2019-11-21 12:03:02,649: p pressed
+2019-11-21 12:03:02,721: p released
+2019-11-21 12:03:03,234: o pressed
+2019-11-21 12:03:03,312: o released
+2019-11-21 12:03:03,425: u pressed
+2019-11-21 12:03:03,472: u released
+2019-11-21 12:03:03,529: t pressed
+2019-11-21 12:03:03,592: t released
+2019-11-21 12:03:03,793: , pressed
+2019-11-21 12:03:03,873: , released
+2019-11-21 12:03:04,497: special: Key.space pressed
+2019-11-21 12:03:04,593: special: Key.space released
+2019-11-21 12:03:04,649: special: Key.shift pressed
+2019-11-21 12:03:04,978: D pressed
+2019-11-21 12:03:05,073: D released
+2019-11-21 12:03:05,097: special: Key.shift released
+2019-11-21 12:03:05,193: w pressed
+2019-11-21 12:03:05,264: w released
+2019-11-21 12:03:05,305: o pressed
+2019-11-21 12:03:05,376: o released
+2019-11-21 12:03:05,577: n pressed
+2019-11-21 12:03:05,688: n released
+2019-11-21 12:03:05,713: special: Key.space pressed
+2019-11-21 12:03:05,760: special: Key.space released
+2019-11-21 12:03:06,041: c pressed
+2019-11-21 12:03:06,120: c released
+2019-11-21 12:03:06,217: a pressed
+2019-11-21 12:03:06,296: a released
+2019-11-21 12:03:06,505: special: Key.backspace pressed
+2019-11-21 12:03:06,568: special: Key.backspace released
+2019-11-21 12:03:06,641: special: Key.backspace pressed
+2019-11-21 12:03:06,704: special: Key.backspace released
+2019-11-21 12:03:06,761: special: Key.backspace pressed
+2019-11-21 12:03:06,824: special: Key.backspace released
+2019-11-21 12:03:06,889: special: Key.backspace pressed
+2019-11-21 12:03:06,953: special: Key.backspace released
+2019-11-21 12:03:07,017: special: Key.backspace pressed
+2019-11-21 12:03:07,088: special: Key.backspace released
+2019-11-21 12:03:07,649: special: Key.backspace pressed
+2019-11-21 12:03:07,721: special: Key.backspace released
+2019-11-21 12:03:07,841: o pressed
+2019-11-21 12:03:07,921: o released
+2019-11-21 12:03:07,945: w pressed
+2019-11-21 12:03:08,008: w released
+2019-11-21 12:03:08,113: n pressed
+2019-11-21 12:03:08,176: n released
+2019-11-21 12:03:08,201: special: Key.space pressed
+2019-11-21 12:03:08,312: special: Key.space released
+2019-11-21 12:03:08,393: c pressed
+2019-11-21 12:03:08,456: c released
+2019-11-21 12:03:08,489: a pressed
+2019-11-21 12:03:08,552: a released
+2019-11-21 12:03:08,593: m pressed
+2019-11-21 12:03:08,657: m released
+2019-11-21 12:03:08,673: e pressed
+2019-11-21 12:03:08,753: e released
+2019-11-21 12:03:08,777: special: Key.space pressed
+2019-11-21 12:03:08,856: special: Key.space released
+2019-11-21 12:03:08,857: t pressed
+2019-11-21 12:03:08,912: t released
+2019-11-21 12:03:08,985: h pressed
+2019-11-21 12:03:09,009: e pressed
+2019-11-21 12:03:09,056: e released
+2019-11-21 12:03:09,088: h released
+2019-11-21 12:03:09,113: special: Key.space pressed
+2019-11-21 12:03:09,169: r pressed
+2019-11-21 12:03:09,192: special: Key.space released
+2019-11-21 12:03:09,224: r released
+2019-11-21 12:03:09,329: a pressed
+2019-11-21 12:03:09,352: a released
+2019-11-21 12:03:09,369: a pressed
+2019-11-21 12:03:09,392: a released
+2019-11-21 12:03:09,425: i pressed
+2019-11-21 12:03:09,504: i released
+2019-11-21 12:03:09,601: n pressed
+2019-11-21 12:03:09,680: n released
+2019-11-21 12:03:09,721: special: Key.space pressed
+2019-11-21 12:03:09,808: special: Key.space released
+2019-11-21 12:03:09,969: special: Key.backspace pressed
+2019-11-21 12:03:10,032: special: Key.backspace released
+2019-11-21 12:03:10,105: special: Key.backspace pressed
+2019-11-21 12:03:10,160: special: Key.backspace released
+2019-11-21 12:03:10,233: special: Key.backspace pressed
+2019-11-21 12:03:10,288: special: Key.backspace released
+2019-11-21 12:03:10,361: special: Key.backspace pressed
+2019-11-21 12:03:10,408: special: Key.backspace released
+2019-11-21 12:03:10,689: i pressed
+2019-11-21 12:03:10,777: i released
+2019-11-21 12:03:10,849: n pressed
+2019-11-21 12:03:10,912: n released
+2019-11-21 12:03:10,929: special: Key.space pressed
+2019-11-21 12:03:10,985: special: Key.space released
+2019-11-21 12:03:11,017: a pressed
+2019-11-21 12:03:11,088: a released
+2019-11-21 12:03:11,121: n pressed
+2019-11-21 12:03:11,176: n released
+2019-11-21 12:03:11,209: d pressed
+2019-11-21 12:03:11,296: d released
+2019-11-21 12:03:11,329: special: Key.space pressed
+2019-11-21 12:03:11,408: special: Key.space released
+2019-11-21 12:03:11,817: w pressed
+2019-11-21 12:03:11,896: w released
+2019-11-21 12:03:11,977: a pressed
+2019-11-21 12:03:12,041: s pressed
+2019-11-21 12:03:12,072: a released
+2019-11-21 12:03:12,120: s released
+2019-11-21 12:03:12,169: h pressed
+2019-11-21 12:03:12,233: e pressed
+2019-11-21 12:03:12,256: h released
+2019-11-21 12:03:12,288: e released
+2019-11-21 12:03:12,377: d pressed
+2019-11-21 12:03:12,441: special: Key.space pressed
+2019-11-21 12:03:12,464: d released
+2019-11-21 12:03:12,512: special: Key.space released
+2019-11-21 12:03:12,537: t pressed
+2019-11-21 12:03:12,592: t released
+2019-11-21 12:03:12,657: h pressed
+2019-11-21 12:03:12,705: e pressed
+2019-11-21 12:03:12,752: h released
+2019-11-21 12:03:12,776: e released
+2019-11-21 12:03:12,809: special: Key.space pressed
+2019-11-21 12:03:12,857: s pressed
+2019-11-21 12:03:12,880: special: Key.space released
+2019-11-21 12:03:12,928: s released
+2019-11-21 12:03:12,945: p pressed
+2019-11-21 12:03:13,000: p released
+2019-11-21 12:03:13,081: i pressed
+2019-11-21 12:03:13,169: i released
+2019-11-21 12:03:13,193: d pressed
+2019-11-21 12:03:13,233: e pressed
+2019-11-21 12:03:13,256: d released
+2019-11-21 12:03:13,353: r pressed
+2019-11-21 12:03:13,376: e released
+2019-11-21 12:03:13,424: r released
+2019-11-21 12:03:13,441: special: Key.space pressed
+2019-11-21 12:03:13,496: special: Key.space released
+2019-11-21 12:03:13,545: o pressed
+2019-11-21 12:03:13,624: o released
+2019-11-21 12:03:13,721: u pressed
+2019-11-21 12:03:13,784: u released
+2019-11-21 12:03:13,785: t pressed
+2019-11-21 12:03:13,912: t released
+2019-11-21 12:03:14,618: . pressed
+2019-11-21 12:03:14,672: . released
+2019-11-21 12:03:24,458: special: Key.backspace pressed
+2019-11-21 12:03:24,521: special: Key.backspace released
+2019-11-21 12:03:24,713: . pressed
+2019-11-21 12:03:24,776: . released
+2019-11-21 12:03:26,930: special: Key.shift pressed
+2019-11-21 12:03:27,169: M pressed
+2019-11-21 12:03:27,305: special: Key.shift released
+2019-11-21 12:03:27,306: m released
+2019-11-21 12:03:27,370: a pressed
+2019-11-21 12:03:27,441: a released
+2019-11-21 12:03:27,489: r pressed
+2019-11-21 12:03:27,552: r released
+2019-11-21 12:03:27,633: y pressed
+2019-11-21 12:03:27,697: special: Key.space pressed
+2019-11-21 12:03:27,712: y released
+2019-11-21 12:03:27,784: special: Key.space released
+2019-11-21 12:03:27,857: h pressed
+2019-11-21 12:03:27,881: a pressed
+2019-11-21 12:03:27,896: h released
+2019-11-21 12:03:27,944: a released
+2019-11-21 12:03:27,969: d pressed
+2019-11-21 12:03:28,017: special: Key.space pressed
+2019-11-21 12:03:28,040: d released
+2019-11-21 12:03:28,176: special: Key.space released
+2019-11-21 12:03:28,177: a pressed
+2019-11-21 12:03:28,192: a released
+2019-11-21 12:03:28,193: special: Key.space pressed
+2019-11-21 12:03:28,248: special: Key.space released
+2019-11-21 12:03:28,305: l pressed
+2019-11-21 12:03:28,369: l released
+2019-11-21 12:03:28,449: i pressed
+2019-11-21 12:03:28,504: i released
+2019-11-21 12:03:28,536: t pressed
+2019-11-21 12:03:28,584: t released
+2019-11-21 12:03:28,905: t pressed
+2019-11-21 12:03:28,992: t released
+2019-11-21 12:03:29,097: l pressed
+2019-11-21 12:03:29,176: l released
+2019-11-21 12:03:29,233: e pressed
+2019-11-21 12:03:29,328: e released
+2019-11-21 12:03:29,353: special: Key.space pressed
+2019-11-21 12:03:29,425: special: Key.space released
+2019-11-21 12:03:29,465: l pressed
+2019-11-21 12:03:29,552: l released
+2019-11-21 12:03:29,585: a pressed
+2019-11-21 12:03:29,664: a released
+2019-11-21 12:03:29,697: m pressed
+2019-11-21 12:03:29,744: m released
+2019-11-21 12:03:29,873: b pressed
+2019-11-21 12:03:29,936: b released
+2019-11-21 12:03:30,097: , pressed
+2019-11-21 12:03:30,176: , released
+2019-11-21 12:03:30,297: special: Key.space pressed
+2019-11-21 12:03:30,360: special: Key.space released
+2019-11-21 12:03:30,826: special: Key.shift pressed
+2019-11-21 12:03:31,073: W pressed
+2019-11-21 12:03:31,113: special: Key.shift released
+2019-11-21 12:03:31,152: w released
+2019-11-21 12:03:31,153: h pressed
+2019-11-21 12:03:31,208: h released
+2019-11-21 12:03:31,281: o pressed
+2019-11-21 12:03:31,329: s pressed
+2019-11-21 12:03:31,352: o released
+2019-11-21 12:03:31,400: s released
+2019-11-21 12:03:31,433: e pressed
+2019-11-21 12:03:31,497: e released
+2019-11-21 12:03:31,497: special: Key.space pressed
+2019-11-21 12:03:31,568: special: Key.space released
+2019-11-21 12:03:31,617: f pressed
+2019-11-21 12:03:31,672: f released
+2019-11-21 12:03:31,849: l pressed
+2019-11-21 12:03:31,944: l released
+2019-11-21 12:03:32,001: e pressed
+2019-11-21 12:03:32,064: e released
+2019-11-21 12:03:32,129: e pressed
+2019-11-21 12:03:32,192: e released
+2019-11-21 12:03:32,296: c pressed
+2019-11-21 12:03:32,368: c released
+2019-11-21 12:03:32,865: e pressed
+2019-11-21 12:03:32,944: e released
+2019-11-21 12:03:33,001: special: Key.space pressed
+2019-11-21 12:03:33,080: special: Key.space released
+2019-11-21 12:03:33,112: w pressed
+2019-11-21 12:03:33,184: w released
+2019-11-21 12:03:33,289: a pressed
+2019-11-21 12:03:33,369: s pressed
+2019-11-21 12:03:33,392: a released
+2019-11-21 12:03:33,440: s released
+2019-11-21 12:03:33,465: special: Key.space pressed
+2019-11-21 12:03:33,505: special: Key.space released
+2019-11-21 12:03:33,777: w pressed
+2019-11-21 12:03:33,856: w released
+2019-11-21 12:03:33,929: h pressed
+2019-11-21 12:03:33,976: h released
+2019-11-21 12:03:34,040: i pressed
+2019-11-21 12:03:34,104: i released
+2019-11-21 12:03:34,193: t pressed
+2019-11-21 12:03:34,249: e pressed
+2019-11-21 12:03:34,272: t released
+2019-11-21 12:03:34,304: e released
+2019-11-21 12:03:34,329: special: Key.space pressed
+2019-11-21 12:03:34,400: special: Key.space released
+2019-11-21 12:03:34,401: a pressed
+2019-11-21 12:03:34,473: s pressed
+2019-11-21 12:03:34,497: a released
+2019-11-21 12:03:34,537: special: Key.space pressed
+2019-11-21 12:03:34,560: s released
+2019-11-21 12:03:34,616: special: Key.space released
+2019-11-21 12:03:34,641: s pressed
+2019-11-21 12:03:34,712: s released
+2019-11-21 12:03:34,737: n pressed
+2019-11-21 12:03:34,784: n released
+2019-11-21 12:03:34,856: o pressed
+2019-11-21 12:03:34,928: o released
+2019-11-21 12:03:34,952: w pressed
+2019-11-21 12:03:35,008: w released
+2019-11-21 12:03:35,056: . pressed
+2019-11-21 12:03:35,136: . released
+2019-11-21 12:03:35,297: special: Key.space pressed
+2019-11-21 12:03:35,384: special: Key.space released
+2019-11-21 12:03:35,417: special: Key.shift pressed
+2019-11-21 12:03:35,689: A pressed
+2019-11-21 12:03:35,737: special: Key.shift released
+2019-11-21 12:03:35,760: a released
+2019-11-21 12:03:35,785: n pressed
+2019-11-21 12:03:35,824: n released
+2019-11-21 12:03:36,233: d pressed
+2019-11-21 12:03:36,312: d released
+2019-11-21 12:03:36,593: special: Key.space pressed
+2019-11-21 12:03:36,672: special: Key.space released
+2019-11-21 12:03:36,769: e pressed
+2019-11-21 12:03:36,864: e released
+2019-11-21 12:03:36,929: v pressed
+2019-11-21 12:03:36,976: e pressed
+2019-11-21 12:03:37,000: v released
+2019-11-21 12:03:37,048: r pressed
+2019-11-21 12:03:37,072: e released
+2019-11-21 12:03:37,112: r released
+2019-11-21 12:03:37,112: y pressed
+2019-11-21 12:03:37,184: y released
+2019-11-21 12:03:37,216: w pressed
+2019-11-21 12:03:37,288: w released
+2019-11-21 12:03:37,312: h pressed
+2019-11-21 12:03:37,392: h released
+2019-11-21 12:03:37,432: e pressed
+2019-11-21 12:03:37,544: r pressed
+2019-11-21 12:03:37,568: e released
+2019-11-21 12:03:37,641: e pressed
+2019-11-21 12:03:37,664: r released
+2019-11-21 12:03:37,720: e released
+2019-11-21 12:03:37,752: special: Key.space pressed
+2019-11-21 12:03:37,800: special: Key.space released
+2019-11-21 12:03:37,993: h pressed
+2019-11-21 12:03:38,024: h released
+2019-11-21 12:03:38,329: special: Key.backspace pressed
+2019-11-21 12:03:38,392: special: Key.backspace released
+2019-11-21 12:03:38,536: t pressed
+2019-11-21 12:03:38,592: t released
+2019-11-21 12:03:38,681: h pressed
+2019-11-21 12:03:38,745: h released
+2019-11-21 12:03:38,769: a pressed
+2019-11-21 12:03:38,824: a released
+2019-11-21 12:03:38,841: t pressed
+2019-11-21 12:03:38,920: t released
+2019-11-21 12:03:38,945: special: Key.shift pressed
+2019-11-21 12:03:38,946: special: Key.space pressed
+2019-11-21 12:03:38,976: special: Key.space released
+2019-11-21 12:03:39,072: M pressed
+2019-11-21 12:03:39,096: special: Key.shift released
+2019-11-21 12:03:39,097: a pressed
+2019-11-21 12:03:39,144: m released
+2019-11-21 12:03:39,145: a released
+2019-11-21 12:03:39,281: r pressed
+2019-11-21 12:03:39,360: r released
+2019-11-21 12:03:39,376: y pressed
+2019-11-21 12:03:39,440: y released
+2019-11-21 12:03:39,480: special: Key.space pressed
+2019-11-21 12:03:39,536: special: Key.space released
+2019-11-21 12:03:39,593: w pressed
+2019-11-21 12:03:39,705: e pressed
+2019-11-21 12:03:39,728: w released
+2019-11-21 12:03:39,768: e released
+2019-11-21 12:03:39,793: n pressed
+2019-11-21 12:03:39,864: n released
+2019-11-21 12:03:39,952: t pressed
+2019-11-21 12:03:40,024: t released
+2019-11-21 12:03:40,136: , pressed
+2019-11-21 12:03:40,208: , released
+2019-11-21 12:03:40,265: special: Key.space pressed
+2019-11-21 12:03:40,328: special: Key.space released
+2019-11-21 12:03:40,400: t pressed
+2019-11-21 12:03:40,456: t released
+2019-11-21 12:03:40,953: special: Key.backspace pressed
+2019-11-21 12:03:41,032: special: Key.backspace released
+2019-11-21 12:03:41,113: special: Key.shift pressed
+2019-11-21 12:03:41,241: T pressed
+2019-11-21 12:03:41,288: special: Key.shift released
+2019-11-21 12:03:41,312: t released
+2019-11-21 12:03:41,376: h pressed
+2019-11-21 12:03:41,408: e pressed
+2019-11-21 12:03:41,456: h released
+2019-11-21 12:03:41,480: e released
+2019-11-21 12:03:41,512: special: Key.space pressed
+2019-11-21 12:03:41,544: special: Key.space released
+2019-11-21 12:03:41,568: l pressed
+2019-11-21 12:03:41,681: l released
+2019-11-21 12:03:41,681: a pressed
+2019-11-21 12:03:41,737: a released
+2019-11-21 12:03:41,793: m pressed
+2019-11-21 12:03:41,856: m released
+2019-11-21 12:03:42,073: special: Key.space pressed
+2019-11-21 12:03:42,104: special: Key.space released
+2019-11-21 12:03:42,353: special: Key.backspace pressed
+2019-11-21 12:03:42,408: special: Key.backspace released
+2019-11-21 12:03:42,569: b pressed
+2019-11-21 12:03:42,632: b released
+2019-11-21 12:03:42,714: special: Key.space pressed
+2019-11-21 12:03:42,776: special: Key.space released
+2019-11-21 12:03:42,801: w pressed
+2019-11-21 12:03:42,864: w released
+2019-11-21 12:03:42,960: a pressed
+2019-11-21 12:03:43,040: s pressed
+2019-11-21 12:03:43,064: a released
+2019-11-21 12:03:43,112: s released
+2019-11-21 12:03:43,113: special: Key.space pressed
+2019-11-21 12:03:43,184: special: Key.space released
+2019-11-21 12:03:43,240: s pressed
+2019-11-21 12:03:43,313: u pressed
+2019-11-21 12:03:43,336: s released
+2019-11-21 12:03:43,384: u released
+2019-11-21 12:03:43,440: r pressed
+2019-11-21 12:03:43,512: e pressed
+2019-11-21 12:03:43,536: r released
+2019-11-21 12:03:43,592: special: Key.space pressed
+2019-11-21 12:03:43,616: e released
+2019-11-21 12:03:43,648: special: Key.space released
+2019-11-21 12:03:43,680: t pressed
+2019-11-21 12:03:43,745: t released
+2019-11-21 12:03:43,841: o pressed
+2019-11-21 12:03:43,912: o released
+2019-11-21 12:03:43,936: special: Key.space pressed
+2019-11-21 12:03:43,976: special: Key.space released
+2019-11-21 12:03:44,040: f pressed
+2019-11-21 12:03:44,096: f released
+2019-11-21 12:03:44,441: special: Key.backspace pressed
+2019-11-21 12:03:44,520: special: Key.backspace released
+2019-11-21 12:03:44,841: g pressed
+2019-11-21 12:03:44,920: g released
+2019-11-21 12:03:44,952: o pressed
+2019-11-21 12:03:45,024: o released
+2019-11-21 12:03:45,192: . pressed
+2019-11-21 12:03:45,272: . released
+2019-11-21 12:03:45,384: special: Key.space pressed
+2019-11-21 12:03:45,408: special: Key.space released
+2019-11-21 12:03:52,466: special: Key.left pressed
+2019-11-21 12:03:52,544: special: Key.left released
+2019-11-21 12:03:53,241: special: Key.backspace pressed
+2019-11-21 12:03:53,336: special: Key.backspace released
+2019-11-21 12:03:58,058: special: Key.space pressed
+2019-11-21 12:03:58,112: special: Key.space released
+2019-11-21 12:04:00,921: \ pressed
+2019-11-21 12:04:01,000: \ released
+2019-11-21 12:04:01,433: special: Key.backspace pressed
+2019-11-21 12:04:01,512: special: Key.backspace released
+2019-11-21 12:04:02,241: . pressed
+2019-11-21 12:04:02,312: . released
+2019-11-21 12:04:14,833: special: Key.backspace pressed
+2019-11-21 12:04:14,904: special: Key.backspace released
+2019-11-21 12:04:17,226: special: Key.shift pressed
+2019-11-21 12:04:17,457: H pressed
+2019-11-21 12:04:17,529: special: Key.shift released
+2019-11-21 12:04:17,530: h released
+2019-11-21 12:04:17,560: u pressed
+2019-11-21 12:04:17,632: u released
+2019-11-21 12:04:17,712: m pressed
+2019-11-21 12:04:17,776: m released
+2019-11-21 12:04:17,840: p pressed
+2019-11-21 12:04:17,920: p released
+2019-11-21 12:04:17,984: t pressed
+2019-11-21 12:04:18,064: t released
+2019-11-21 12:04:18,080: y pressed
+2019-11-21 12:04:18,160: y released
+2019-11-21 12:04:18,192: special: Key.space pressed
+2019-11-21 12:04:18,248: special: Key.space released
+2019-11-21 12:04:18,328: special: Key.shift pressed
+2019-11-21 12:04:18,408: D pressed
+2019-11-21 12:04:18,448: special: Key.shift released
+2019-11-21 12:04:18,505: d released
+2019-11-21 12:04:18,505: u pressed
+2019-11-21 12:04:18,521: y pressed
+2019-11-21 12:04:18,544: y released
+2019-11-21 12:04:18,576: u released
+2019-11-21 12:04:18,648: m pressed
+2019-11-21 12:04:18,712: m released
+2019-11-21 12:04:18,792: p pressed
+2019-11-21 12:04:18,864: p released
+2019-11-21 12:04:18,896: t pressed
+2019-11-21 12:04:18,968: t released
+2019-11-21 12:04:18,993: y pressed
+2019-11-21 12:04:19,057: y released
+2019-11-21 12:04:19,080: special: Key.space pressed
+2019-11-21 12:04:19,136: special: Key.space released
+2019-11-21 12:04:19,793: special: Key.backspace pressed
+2019-11-21 12:04:19,824: special: Key.backspace released
+2019-11-21 12:04:19,880: special: Key.backspace pressed
+2019-11-21 12:04:19,952: special: Key.backspace released
+2019-11-21 12:04:20,016: special: Key.backspace pressed
+2019-11-21 12:04:20,072: special: Key.backspace released
+2019-11-21 12:04:20,144: special: Key.backspace pressed
+2019-11-21 12:04:20,200: special: Key.backspace released
+2019-11-21 12:04:20,264: special: Key.backspace pressed
+2019-11-21 12:04:20,328: special: Key.backspace released
+2019-11-21 12:04:20,400: special: Key.backspace pressed
+2019-11-21 12:04:20,496: special: Key.backspace released
+2019-11-21 12:04:20,993: m pressed
+2019-11-21 12:04:21,056: m released
+2019-11-21 12:04:21,128: p pressed
+2019-11-21 12:04:21,208: p released
+2019-11-21 12:04:21,280: t pressed
+2019-11-21 12:04:21,424: t released
+2019-11-21 12:04:21,425: y pressed
+2019-11-21 12:04:21,456: y released
+2019-11-21 12:04:21,480: special: Key.space pressed
+2019-11-21 12:04:21,537: special: Key.space released
+2019-11-21 12:04:21,937: s pressed
+2019-11-21 12:04:22,001: a pressed
+2019-11-21 12:04:22,024: s released
+2019-11-21 12:04:22,080: a released
+2019-11-21 12:04:22,120: t pressed
+2019-11-21 12:04:22,200: t released
+2019-11-21 12:04:22,224: special: Key.space pressed
+2019-11-21 12:04:22,264: special: Key.space released
+2019-11-21 12:04:22,328: o pressed
+2019-11-21 12:04:22,400: o released
+2019-11-21 12:04:22,464: n pressed
+2019-11-21 12:04:22,528: n released
+2019-11-21 12:04:22,529: special: Key.space pressed
+2019-11-21 12:04:22,593: a pressed
+2019-11-21 12:04:22,616: special: Key.space released
+2019-11-21 12:04:22,664: a released
+2019-11-21 12:04:22,697: special: Key.space pressed
+2019-11-21 12:04:22,817: w pressed
+2019-11-21 12:04:22,832: special: Key.space released
+2019-11-21 12:04:22,832: w released
+2019-11-21 12:04:22,856: a pressed
+2019-11-21 12:04:22,928: a released
+2019-11-21 12:04:22,928: l pressed
+2019-11-21 12:04:23,000: l released
+2019-11-21 12:04:23,048: l pressed
+2019-11-21 12:04:23,120: l released
+2019-11-21 12:04:23,216: , pressed
+2019-11-21 12:04:23,280: , released
+2019-11-21 12:04:23,408: special: Key.space pressed
+2019-11-21 12:04:23,488: special: Key.space released
+2019-11-21 12:04:23,818: special: Key.shift pressed
+2019-11-21 12:04:24,337: H pressed
+2019-11-21 12:04:24,377: special: Key.shift released
+2019-11-21 12:04:24,400: h released
+2019-11-21 12:04:24,440: u pressed
+2019-11-21 12:04:24,512: u released
+2019-11-21 12:04:24,592: m pressed
+2019-11-21 12:04:24,665: m released
+2019-11-21 12:04:24,729: p pressed
+2019-11-21 12:04:24,784: p released
+2019-11-21 12:04:25,000: t pressed
+2019-11-21 12:04:25,072: t released
+2019-11-21 12:04:25,144: y pressed
+2019-11-21 12:04:25,232: y released
+2019-11-21 12:04:25,256: special: Key.shift pressed
+2019-11-21 12:04:25,257: special: Key.space pressed
+2019-11-21 12:04:25,304: special: Key.space released
+2019-11-21 12:04:25,456: D pressed
+2019-11-21 12:04:25,480: special: Key.shift released
+2019-11-21 12:04:25,520: d released
+2019-11-21 12:04:25,544: u pressed
+2019-11-21 12:04:25,600: u released
+2019-11-21 12:04:25,705: m pressed
+2019-11-21 12:04:25,776: m released
+2019-11-21 12:04:25,848: p pressed
+2019-11-21 12:04:25,920: p released
+2019-11-21 12:04:26,041: t pressed
+2019-11-21 12:04:26,104: t released
+2019-11-21 12:04:26,200: y pressed
+2019-11-21 12:04:26,256: y released
+2019-11-21 12:04:26,312: special: Key.space pressed
+2019-11-21 12:04:26,376: special: Key.space released
+2019-11-21 12:04:26,777: h pressed
+2019-11-21 12:04:26,856: h released
+2019-11-21 12:04:26,888: a pressed
+2019-11-21 12:04:26,976: a released
+2019-11-21 12:04:26,976: d pressed
+2019-11-21 12:04:27,040: special: Key.space pressed
+2019-11-21 12:04:27,064: d released
+2019-11-21 12:04:27,096: special: Key.space released
+2019-11-21 12:04:27,144: a pressed
+2019-11-21 12:04:27,208: a released
+2019-11-21 12:04:27,224: special: Key.space pressed
+2019-11-21 12:04:27,272: special: Key.space released
+2019-11-21 12:04:27,320: g pressed
+2019-11-21 12:04:27,392: g released
+2019-11-21 12:04:27,456: r pressed
+2019-11-21 12:04:27,528: e pressed
+2019-11-21 12:04:27,552: r released
+2019-11-21 12:04:27,584: e released
+2019-11-21 12:04:27,656: a pressed
+2019-11-21 12:04:27,745: t pressed
+2019-11-21 12:04:27,776: a released
+2019-11-21 12:04:27,816: t released
+2019-11-21 12:04:27,840: special: Key.space pressed
+2019-11-21 12:04:27,896: special: Key.space released
+2019-11-21 12:04:28,408: f pressed
+2019-11-21 12:04:28,472: f released
+2019-11-21 12:04:28,576: a pressed
+2019-11-21 12:04:28,648: a released
+2019-11-21 12:04:28,672: l pressed
+2019-11-21 12:04:28,736: l released
+2019-11-21 12:04:28,800: l pressed
+2019-11-21 12:04:28,864: l released
+2019-11-21 12:04:28,952: . pressed
+2019-11-21 12:04:29,024: . released
+2019-11-21 12:04:29,088: special: Key.space pressed
+2019-11-21 12:04:29,152: special: Key.shift pressed
+2019-11-21 12:04:29,176: special: Key.space released
+2019-11-21 12:04:29,344: A pressed
+2019-11-21 12:04:29,376: special: Key.shift released
+2019-11-21 12:04:29,416: a released
+2019-11-21 12:04:29,448: l pressed
+2019-11-21 12:04:29,560: l released
+2019-11-21 12:04:29,584: l pressed
+2019-11-21 12:04:29,640: l released
+2019-11-21 12:04:29,672: special: Key.space pressed
+2019-11-21 12:04:29,712: special: Key.space released
+2019-11-21 12:04:29,768: t pressed
+2019-11-21 12:04:29,824: t released
+2019-11-21 12:04:29,896: h pressed
+2019-11-21 12:04:29,920: e pressed
+2019-11-21 12:04:29,968: h released
+2019-11-21 12:04:30,000: e released
+2019-11-21 12:04:30,000: special: Key.space pressed
+2019-11-21 12:04:30,064: special: Key.space released
+2019-11-21 12:04:30,216: k pressed
+2019-11-21 12:04:30,296: k released
+2019-11-21 12:04:30,384: i pressed
+2019-11-21 12:04:30,464: i released
+2019-11-21 12:04:30,552: n pressed
+2019-11-21 12:04:30,616: n released
+2019-11-21 12:04:30,704: g pressed
+2019-11-21 12:04:30,760: g released
+2019-11-21 12:04:30,920: ' pressed
+2019-11-21 12:04:30,984: ' released
+2019-11-21 12:04:31,008: s pressed
+2019-11-21 12:04:31,072: s released
+2019-11-21 12:04:31,304: special: Key.space pressed
+2019-11-21 12:04:31,384: special: Key.space released
+2019-11-21 12:04:32,249: h pressed
+2019-11-21 12:04:32,304: h released
+2019-11-21 12:04:32,392: o pressed
+2019-11-21 12:04:32,464: o released
+2019-11-21 12:04:32,672: r pressed
+2019-11-21 12:04:32,744: r released
+2019-11-21 12:04:32,849: s pressed
+2019-11-21 12:04:32,920: s released
+2019-11-21 12:04:33,016: e pressed
+2019-11-21 12:04:33,080: e released
+2019-11-21 12:04:33,232: s pressed
+2019-11-21 12:04:33,320: s released
+2019-11-21 12:04:33,440: special: Key.space pressed
+2019-11-21 12:04:33,528: special: Key.space released
+2019-11-21 12:04:33,841: a pressed
+2019-11-21 12:04:33,928: a released
+2019-11-21 12:04:33,968: n pressed
+2019-11-21 12:04:34,032: d pressed
+2019-11-21 12:04:34,056: n released
+2019-11-21 12:04:34,088: d released
+2019-11-21 12:04:34,120: special: Key.space pressed
+2019-11-21 12:04:34,176: special: Key.space released
+2019-11-21 12:04:34,200: a pressed
+2019-11-21 12:04:34,280: a released
+2019-11-21 12:04:34,280: l pressed
+2019-11-21 12:04:34,328: l released
+2019-11-21 12:04:34,400: l pressed
+2019-11-21 12:04:34,440: special: Key.space pressed
+2019-11-21 12:04:34,464: l released
+2019-11-21 12:04:34,504: special: Key.space released
+2019-11-21 12:04:34,576: t pressed
+2019-11-21 12:04:34,616: t released
+2019-11-21 12:04:34,704: h pressed
+2019-11-21 12:04:34,760: e pressed
+2019-11-21 12:04:34,784: h released
+2019-11-21 12:04:34,824: e released
+2019-11-21 12:04:34,848: special: Key.space pressed
+2019-11-21 12:04:34,928: special: Key.space released
+2019-11-21 12:04:35,016: k pressed
+2019-11-21 12:04:35,112: k released
+2019-11-21 12:04:35,192: i pressed
+2019-11-21 12:04:35,272: i released
+2019-11-21 12:04:35,336: n pressed
+2019-11-21 12:04:35,400: n released
+2019-11-21 12:04:35,480: g pressed
+2019-11-21 12:04:35,544: g released
+2019-11-21 12:04:35,697: ; pressed
+2019-11-21 12:04:35,768: ; released
+2019-11-21 12:04:35,800: s pressed
+2019-11-21 12:04:35,872: s released
+2019-11-21 12:04:35,912: special: Key.space pressed
+2019-11-21 12:04:36,000: special: Key.space released
+2019-11-21 12:04:36,240: special: Key.backspace pressed
+2019-11-21 12:04:36,312: special: Key.backspace released
+2019-11-21 12:04:36,376: special: Key.backspace pressed
+2019-11-21 12:04:36,432: special: Key.backspace released
+2019-11-21 12:04:36,512: special: Key.backspace pressed
+2019-11-21 12:04:36,576: special: Key.backspace released
+2019-11-21 12:04:37,177: ' pressed
+2019-11-21 12:04:37,256: ' released
+2019-11-21 12:04:37,280: s pressed
+2019-11-21 12:04:37,344: s released
+2019-11-21 12:04:37,368: special: Key.space pressed
+2019-11-21 12:04:37,408: special: Key.space released
+2019-11-21 12:04:37,464: m pressed
+2019-11-21 12:04:37,528: e pressed
+2019-11-21 12:04:37,560: m released
+2019-11-21 12:04:37,608: e released
+2019-11-21 12:04:37,680: n pressed
+2019-11-21 12:04:37,752: n released
+2019-11-21 12:04:37,792: special: Key.space pressed
+2019-11-21 12:04:37,872: special: Key.space released
+2019-11-21 12:04:38,194: special: Key.shift pressed
+2019-11-21 12:04:38,344: C pressed
+2019-11-21 12:04:38,424: special: Key.shift released
+2019-11-21 12:04:38,448: c released
+2019-11-21 12:04:38,528: o pressed
+2019-11-21 12:04:38,568: o released
+2019-11-21 12:04:38,680: u pressed
+2019-11-21 12:04:38,744: u released
+2019-11-21 12:04:38,840: l pressed
+2019-11-21 12:04:38,920: l released
+2019-11-21 12:04:38,944: d pressed
+2019-11-21 12:04:39,024: d released
+2019-11-21 12:04:39,825: n pressed
+2019-11-21 12:04:39,880: n released
+2019-11-21 12:04:40,017: ; pressed
+2019-11-21 12:04:40,112: ; released
+2019-11-21 12:04:40,136: t pressed
+2019-11-21 12:04:40,216: t released
+2019-11-21 12:04:40,248: special: Key.space pressed
+2019-11-21 12:04:40,311: special: Key.space released
+2019-11-21 12:04:41,433: special: Key.backspace pressed
+2019-11-21 12:04:41,504: special: Key.backspace released
+2019-11-21 12:04:41,584: special: Key.backspace pressed
+2019-11-21 12:04:41,640: special: Key.backspace released
+2019-11-21 12:04:41,712: special: Key.backspace pressed
+2019-11-21 12:04:41,776: special: Key.backspace released
+2019-11-21 12:04:42,433: ' pressed
+2019-11-21 12:04:42,504: ' released
+2019-11-21 12:04:42,624: t pressed
+2019-11-21 12:04:42,720: t released
+2019-11-21 12:04:42,721: special: Key.space pressed
+2019-11-21 12:04:42,752: special: Key.space released
+2019-11-21 12:04:42,792: p pressed
+2019-11-21 12:04:42,871: p released
+2019-11-21 12:04:42,976: u pressed
+2019-11-21 12:04:43,048: u released
+2019-11-21 12:04:43,144: t pressed
+2019-11-21 12:04:43,224: t released
+2019-11-21 12:04:43,352: special: Key.space pressed
+2019-11-21 12:04:43,367: special: Key.space released
+2019-11-21 12:04:43,665: special: Key.shift pressed
+2019-11-21 12:04:44,001: H pressed
+2019-11-21 12:04:44,065: special: Key.shift released
+2019-11-21 12:04:44,088: h released
+2019-11-21 12:04:44,120: u pressed
+2019-11-21 12:04:44,192: u released
+2019-11-21 12:04:44,272: m pressed
+2019-11-21 12:04:44,336: m released
+2019-11-21 12:04:44,400: p pressed
+2019-11-21 12:04:44,480: p released
+2019-11-21 12:04:44,528: t pressed
+2019-11-21 12:04:44,600: t released
+2019-11-21 12:04:44,624: y pressed
+2019-11-21 12:04:44,696: y released
+2019-11-21 12:04:44,712: special: Key.space pressed
+2019-11-21 12:04:44,760: special: Key.space released
+2019-11-21 12:04:45,129: t pressed
+2019-11-21 12:04:45,200: t released
+2019-11-21 12:04:45,288: o pressed
+2019-11-21 12:04:45,376: o released
+2019-11-21 12:04:45,664: g pressed
+2019-11-21 12:04:45,736: g released
+2019-11-21 12:04:45,800: e pressed
+2019-11-21 12:04:45,864: e released
+2019-11-21 12:04:45,888: t pressed
+2019-11-21 12:04:45,944: t released
+2019-11-21 12:04:46,024: h pressed
+2019-11-21 12:04:46,072: e pressed
+2019-11-21 12:04:46,104: h released
+2019-11-21 12:04:46,136: r pressed
+2019-11-21 12:04:46,168: e released
+2019-11-21 12:04:46,216: r released
+2019-11-21 12:04:46,240: special: Key.space pressed
+2019-11-21 12:04:46,312: special: Key.space released
+2019-11-21 12:04:46,376: a pressed
+2019-11-21 12:04:46,464: a released
+2019-11-21 12:04:46,488: g pressed
+2019-11-21 12:04:46,544: g released
+2019-11-21 12:04:46,576: a pressed
+2019-11-21 12:04:46,640: i pressed
+2019-11-21 12:04:46,664: a released
+2019-11-21 12:04:46,720: i released
+2019-11-21 12:04:46,784: n pressed
+2019-11-21 12:04:46,840: n released
+2019-11-21 12:04:46,960: . pressed
+2019-11-21 12:04:47,032: . released
+2019-11-21 12:04:47,096: special: Key.space pressed
+2019-11-21 12:04:47,152: special: Key.space released
+2019-11-21 12:04:47,929: special: Key.backspace pressed
+2019-11-21 12:04:48,008: special: Key.backspace released
+2019-11-21 12:04:49,466: special: Key.shift pressed
+2019-11-21 12:04:49,873: T pressed
+2019-11-21 12:04:49,913: special: Key.shift released
+2019-11-21 12:04:49,960: t released
+2019-11-21 12:04:49,984: w pressed
+2019-11-21 12:04:50,032: w released
+2019-11-21 12:04:50,056: i pressed
+2019-11-21 12:04:50,112: i released
+2019-11-21 12:04:50,193: n pressed
+2019-11-21 12:04:50,232: n released
+2019-11-21 12:04:50,504: k pressed
+2019-11-21 12:04:50,568: k released
+2019-11-21 12:04:50,664: l pressed
+2019-11-21 12:04:50,729: l released
+2019-11-21 12:04:50,752: e pressed
+2019-11-21 12:04:50,832: e released
+2019-11-21 12:04:51,329: . pressed
+2019-11-21 12:04:51,400: . released
+2019-11-21 12:04:51,496: special: Key.space pressed
+2019-11-21 12:04:51,560: special: Key.space released
+2019-11-21 12:04:52,121: special: Key.backspace pressed
+2019-11-21 12:04:52,176: special: Key.backspace released
+2019-11-21 12:04:52,273: special: Key.backspace pressed
+2019-11-21 12:04:52,328: special: Key.backspace released
+2019-11-21 12:04:52,945: , pressed
+2019-11-21 12:04:53,008: , released
+2019-11-21 12:04:53,040: special: Key.space pressed
+2019-11-21 12:04:53,064: special: Key.shift pressed
+2019-11-21 12:04:53,096: special: Key.space released
+2019-11-21 12:04:53,257: special: Key.shift released
+2019-11-21 12:04:53,259: t pressed
+2019-11-21 12:04:53,280: t released
+2019-11-21 12:04:53,280: w pressed
+2019-11-21 12:04:53,352: w released
+2019-11-21 12:04:53,376: i pressed
+2019-11-21 12:04:53,440: i released
+2019-11-21 12:04:53,512: n pressed
+2019-11-21 12:04:53,576: n released
+2019-11-21 12:04:53,656: k pressed
+2019-11-21 12:04:53,720: k released
+2019-11-21 12:04:53,824: l pressed
+2019-11-21 12:04:53,888: e pressed
+2019-11-21 12:04:53,912: l released
+2019-11-21 12:04:53,968: e released
+2019-11-21 12:04:54,505: special: Key.backspace pressed
+2019-11-21 12:04:54,664: special: Key.backspace released
+2019-11-21 12:04:55,601: e pressed
+2019-11-21 12:04:55,697: e released
+2019-11-21 12:04:55,880: , pressed
+2019-11-21 12:04:55,944: , released
+2019-11-21 12:04:56,016: special: Key.space pressed
+2019-11-21 12:04:56,088: special: Key.space released
+2019-11-21 12:04:56,489: l pressed
+2019-11-21 12:04:56,560: l released
+2019-11-21 12:04:56,656: i pressed
+2019-11-21 12:04:56,720: i released
+2019-11-21 12:04:56,744: t pressed
+2019-11-21 12:04:56,791: t released
+2019-11-21 12:04:56,848: t pressed
+2019-11-21 12:04:56,927: t released
+2019-11-21 12:04:56,944: l pressed
+2019-11-21 12:04:57,023: l released
+2019-11-21 12:04:57,040: e pressed
+2019-11-21 12:04:57,088: e released
+2019-11-21 12:04:57,152: special: Key.space pressed
+2019-11-21 12:04:57,200: s pressed
+2019-11-21 12:04:57,224: special: Key.space released
+2019-11-21 12:04:57,280: s released
+2019-11-21 12:04:57,312: t pressed
+2019-11-21 12:04:57,384: t released
+2019-11-21 12:04:57,408: a pressed
+2019-11-21 12:04:57,488: a released
+2019-11-21 12:04:57,512: r pressed
+2019-11-21 12:04:57,568: r released
+2019-11-21 12:04:57,768: , pressed
+2019-11-21 12:04:57,840: , released
+2019-11-21 12:04:57,976: special: Key.space pressed
+2019-11-21 12:04:58,072: special: Key.space released
+2019-11-21 12:04:58,450: special: Key.shift pressed
+2019-11-21 12:04:58,584: H pressed
+2019-11-21 12:04:58,648: H released
+2019-11-21 12:04:58,672: special: Key.shift released
+2019-11-21 12:04:58,728: o pressed
+2019-11-21 12:04:58,800: w pressed
+2019-11-21 12:04:58,823: o released
+2019-11-21 12:04:58,879: w released
+2019-11-21 12:04:58,904: special: Key.space pressed
+2019-11-21 12:04:58,976: special: Key.shift pressed
+2019-11-21 12:04:59,000: special: Key.space released
+2019-11-21 12:04:59,048: I pressed
+2019-11-21 12:04:59,168: special: Key.shift released
+2019-11-21 12:04:59,169: i released
+2019-11-21 12:04:59,200: w pressed
+2019-11-21 12:04:59,232: w released
+2019-11-21 12:04:59,336: a pressed
+2019-11-21 12:04:59,400: a released
+2019-11-21 12:04:59,633: special: Key.backspace pressed
+2019-11-21 12:04:59,696: special: Key.backspace released
+2019-11-21 12:04:59,776: w pressed
+2019-11-21 12:04:59,808: w released
+2019-11-21 12:04:59,856: o pressed
+2019-11-21 12:04:59,920: o released
+2019-11-21 12:05:00,113: special: Key.backspace pressed
+2019-11-21 12:05:00,168: special: Key.backspace released
+2019-11-21 12:05:00,240: special: Key.backspace pressed
+2019-11-21 12:05:00,304: special: Key.backspace released
+2019-11-21 12:05:00,569: special: Key.space pressed
+2019-11-21 12:05:00,648: special: Key.space released
+2019-11-21 12:05:00,856: special: Key.backspace pressed
+2019-11-21 12:05:00,928: special: Key.backspace released
+2019-11-21 12:05:01,040: special: Key.backspace pressed
+2019-11-21 12:05:01,080: special: Key.backspace released
+2019-11-21 12:05:01,272: special: Key.space pressed
+2019-11-21 12:05:01,352: special: Key.space released
+2019-11-21 12:05:01,481: w pressed
+2019-11-21 12:05:01,504: w released
+2019-11-21 12:05:01,504: o pressed
+2019-11-21 12:05:01,568: o released
+2019-11-21 12:05:01,632: n pressed
+2019-11-21 12:05:01,704: n released
+2019-11-21 12:05:01,744: d pressed
+2019-11-21 12:05:01,816: e pressed
+2019-11-21 12:05:01,839: d released
+2019-11-21 12:05:01,952: r pressed
+2019-11-21 12:05:01,976: e released
+2019-11-21 12:05:02,023: r released
+2019-11-21 12:05:02,056: special: Key.space pressed
+2019-11-21 12:05:02,151: special: Key.space released
+2019-11-21 12:05:02,176: w pressed
+2019-11-21 12:05:02,288: w released
+2019-11-21 12:05:02,288: h pressed
+2019-11-21 12:05:02,344: h released
+2019-11-21 12:05:02,376: a pressed
+2019-11-21 12:05:02,472: a released
+2019-11-21 12:05:02,473: t pressed
+2019-11-21 12:05:02,536: t released
+2019-11-21 12:05:02,552: special: Key.space pressed
+2019-11-21 12:05:02,592: special: Key.space released
+2019-11-21 12:05:02,648: y pressed
+2019-11-21 12:05:02,728: y released
+2019-11-21 12:05:02,824: o pressed
+2019-11-21 12:05:02,887: o released
+2019-11-21 12:05:03,000: u pressed
+2019-11-21 12:05:03,063: u released
+2019-11-21 12:05:03,128: special: Key.space pressed
+2019-11-21 12:05:03,208: special: Key.space released
+2019-11-21 12:05:03,304: a pressed
+2019-11-21 12:05:03,399: a released
+2019-11-21 12:05:03,424: r pressed
+2019-11-21 12:05:03,481: e pressed
+2019-11-21 12:05:03,503: r released
+2019-11-21 12:05:03,551: e released
+2019-11-21 12:05:03,632: special: Key.shift pressed
+2019-11-21 12:05:03,816: ! pressed
+2019-11-21 12:05:03,920: ! released
+2019-11-21 12:05:03,944: special: Key.shift released
+2019-11-21 12:05:04,000: special: Key.space pressed
+2019-11-21 12:05:04,095: special: Key.space released
+2019-11-21 12:05:04,360: special: Key.shift pressed
+2019-11-21 12:05:04,929: U pressed
+2019-11-21 12:05:04,968: special: Key.shift released
+2019-11-21 12:05:04,991: u released
+2019-11-21 12:05:05,088: p pressed
+2019-11-21 12:05:05,167: p released
+2019-11-21 12:05:05,192: special: Key.space pressed
+2019-11-21 12:05:05,239: special: Key.space released
+2019-11-21 12:05:05,240: a pressed
+2019-11-21 12:05:05,319: a released
+2019-11-21 12:05:05,344: p pressed
+2019-11-21 12:05:05,383: p released
+2019-11-21 12:05:05,865: b pressed
+2019-11-21 12:05:05,944: b released
+2019-11-21 12:05:05,968: e pressed
+2019-11-21 12:05:06,048: e released
+2019-11-21 12:05:06,328: special: Key.backspace pressed
+2019-11-21 12:05:06,399: special: Key.backspace released
+2019-11-21 12:05:06,464: special: Key.backspace pressed
+2019-11-21 12:05:06,528: special: Key.backspace released
+2019-11-21 12:05:06,968: special: Key.backspace pressed
+2019-11-21 12:05:07,032: special: Key.backspace released
+2019-11-21 12:05:07,216: b pressed
+2019-11-21 12:05:07,271: b released
+2019-11-21 12:05:07,360: o pressed
+2019-11-21 12:05:07,439: o released
+2019-11-21 12:05:07,520: v pressed
+2019-11-21 12:05:07,584: v released
+2019-11-21 12:05:07,608: e pressed
+2019-11-21 12:05:07,672: special: Key.space pressed
+2019-11-21 12:05:07,696: e released
+2019-11-21 12:05:07,752: special: Key.space released
+2019-11-21 12:05:07,776: t pressed
+2019-11-21 12:05:07,815: t released
+2019-11-21 12:05:07,912: h pressed
+2019-11-21 12:05:07,952: e pressed
+2019-11-21 12:05:07,983: h released
+2019-11-21 12:05:08,031: e released
+2019-11-21 12:05:08,064: special: Key.space pressed
+2019-11-21 12:05:08,120: w pressed
+2019-11-21 12:05:08,143: special: Key.space released
+2019-11-21 12:05:08,223: w released
+2019-11-21 12:05:08,248: o pressed
+2019-11-21 12:05:08,287: o released
+2019-11-21 12:05:08,336: r pressed
+2019-11-21 12:05:08,407: r released
+2019-11-21 12:05:08,577: special: Key.backspace pressed
+2019-11-21 12:05:08,648: special: Key.backspace released
+2019-11-21 12:05:09,073: r pressed
+2019-11-21 12:05:09,143: r released
+2019-11-21 12:05:09,328: l pressed
+2019-11-21 12:05:09,423: l released
+2019-11-21 12:05:09,536: d pressed
+2019-11-21 12:05:09,567: d released
+2019-11-21 12:05:09,568: special: Key.space pressed
+2019-11-21 12:05:09,616: special: Key.space released
+2019-11-21 12:05:09,672: s pressed
+2019-11-21 12:05:09,736: o pressed
+2019-11-21 12:05:09,808: s released
+2019-11-21 12:05:09,839: o released
+2019-11-21 12:05:09,840: special: Key.space pressed
+2019-11-21 12:05:09,879: special: Key.space released
+2019-11-21 12:05:09,936: h pressed
+2019-11-21 12:05:10,015: h released
+2019-11-21 12:05:10,088: u pressed
+2019-11-21 12:05:10,151: u released
+2019-11-21 12:05:10,272: g pressed
+2019-11-21 12:05:10,311: g released
+2019-11-21 12:05:10,424: h pressed
+2019-11-21 12:05:10,487: h released
+2019-11-21 12:05:10,698: special: Key.backspace pressed
+2019-11-21 12:05:10,752: special: Key.backspace released
+2019-11-21 12:05:10,824: special: Key.backspace pressed
+2019-11-21 12:05:10,887: special: Key.backspace released
+2019-11-21 12:05:10,960: special: Key.backspace pressed
+2019-11-21 12:05:11,056: special: Key.backspace released
+2019-11-21 12:05:11,560: i pressed
+2019-11-21 12:05:11,640: i released
+2019-11-21 12:05:11,728: g pressed
+2019-11-21 12:05:11,800: g released
+2019-11-21 12:05:11,872: h pressed
+2019-11-21 12:05:11,928: h released
+2019-11-21 12:05:12,048: , pressed
+2019-11-21 12:05:12,119: , released
+2019-11-21 12:05:12,200: special: Key.space pressed
+2019-11-21 12:05:12,231: special: Key.space released
+2019-11-21 12:05:12,288: l pressed
+2019-11-21 12:05:12,367: l released
+2019-11-21 12:05:12,456: i pressed
+2019-11-21 12:05:12,527: i released
+2019-11-21 12:05:12,664: k pressed
+2019-11-21 12:05:12,688: k released
+2019-11-21 12:05:12,688: e pressed
+2019-11-21 12:05:12,712: e released
+2019-11-21 12:05:12,736: special: Key.space pressed
+2019-11-21 12:05:12,783: special: Key.space released
+2019-11-21 12:05:12,968: special: Key.backspace pressed
+2019-11-21 12:05:13,023: special: Key.backspace released
+2019-11-21 12:05:13,104: special: Key.backspace pressed
+2019-11-21 12:05:13,159: special: Key.backspace released
+2019-11-21 12:05:13,232: special: Key.backspace pressed
+2019-11-21 12:05:13,287: special: Key.backspace released
+2019-11-21 12:05:13,368: special: Key.backspace pressed
+2019-11-21 12:05:13,423: special: Key.backspace released
+2019-11-21 12:05:13,496: special: Key.backspace pressed
+2019-11-21 12:05:13,575: special: Key.backspace released
+2019-11-21 12:05:13,640: special: Key.shift pressed
+2019-11-21 12:05:13,713: L pressed
+2019-11-21 12:05:13,784: L released
+2019-11-21 12:05:13,808: special: Key.shift released
+2019-11-21 12:05:13,888: i pressed
+2019-11-21 12:05:13,943: i released
+2019-11-21 12:05:14,016: k pressed
+2019-11-21 12:05:14,056: e pressed
+2019-11-21 12:05:14,095: k released
+2019-11-21 12:05:14,127: e released
+2019-11-21 12:05:14,160: special: Key.space pressed
+2019-11-21 12:05:14,224: a pressed
+2019-11-21 12:05:14,247: special: Key.space released
+2019-11-21 12:05:14,303: a released
+2019-11-21 12:05:14,328: special: Key.space pressed
+2019-11-21 12:05:14,439: special: Key.space released
+2019-11-21 12:05:14,464: d pressed
+2019-11-21 12:05:14,503: d released
+2019-11-21 12:05:14,504: i pressed
+2019-11-21 12:05:14,567: i released
+2019-11-21 12:05:14,616: a pressed
+2019-11-21 12:05:14,687: a released
+2019-11-21 12:05:14,688: m pressed
+2019-11-21 12:05:14,768: m released
+2019-11-21 12:05:14,848: o pressed
+2019-11-21 12:05:14,928: o released
+2019-11-21 12:05:14,984: n pressed
+2019-11-21 12:05:15,063: n released
+2019-11-21 12:05:15,088: d pressed
+2019-11-21 12:05:15,143: d released
+2019-11-21 12:05:15,216: special: Key.space pressed
+2019-11-21 12:05:15,303: special: Key.space released
+2019-11-21 12:05:15,448: o pressed
+2019-11-21 12:05:15,519: o released
+2019-11-21 12:05:15,720: special: Key.backspace pressed
+2019-11-21 12:05:15,792: special: Key.backspace released
+2019-11-21 12:05:15,912: i pressed
+2019-11-21 12:05:15,983: i released
+2019-11-21 12:05:16,104: n pressed
+2019-11-21 12:05:16,127: n released
+2019-11-21 12:05:16,240: t pressed
+2019-11-21 12:05:16,311: t released
+2019-11-21 12:05:16,392: h pressed
+2019-11-21 12:05:16,416: e pressed
+2019-11-21 12:05:16,471: h released
+2019-11-21 12:05:16,495: e released
+2019-11-21 12:05:16,520: special: Key.space pressed
+2019-11-21 12:05:16,583: special: Key.space released
+2019-11-21 12:05:16,744: special: Key.backspace pressed
+2019-11-21 12:05:16,800: special: Key.backspace released
+2019-11-21 12:05:16,880: special: Key.backspace pressed
+2019-11-21 12:05:16,951: special: Key.backspace released
+2019-11-21 12:05:17,016: special: Key.backspace pressed
+2019-11-21 12:05:17,071: special: Key.backspace released
+2019-11-21 12:05:17,168: special: Key.backspace pressed
+2019-11-21 12:05:17,239: special: Key.backspace released
+2019-11-21 12:05:17,608: special: Key.space pressed
+2019-11-21 12:05:17,679: special: Key.space released
+2019-11-21 12:05:17,752: t pressed
+2019-11-21 12:05:17,824: t released
+2019-11-21 12:05:17,904: e pressed
+2019-11-21 12:05:17,936: h pressed
+2019-11-21 12:05:17,967: e released
+2019-11-21 12:05:18,015: h released
+2019-11-21 12:05:18,080: special: Key.space pressed
+2019-11-21 12:05:18,143: special: Key.space released
+2019-11-21 12:05:18,672: special: Key.backspace pressed
+2019-11-21 12:05:18,735: special: Key.backspace released
+2019-11-21 12:05:18,808: special: Key.backspace pressed
+2019-11-21 12:05:18,872: special: Key.backspace released
+2019-11-21 12:05:18,944: special: Key.backspace pressed
+2019-11-21 12:05:19,025: special: Key.backspace released
+2019-11-21 12:05:19,505: h pressed
+2019-11-21 12:05:19,575: h released
+2019-11-21 12:05:19,600: e pressed
+2019-11-21 12:05:19,640: special: Key.space pressed
+2019-11-21 12:05:19,663: e released
+2019-11-21 12:05:19,719: special: Key.space released
+2019-11-21 12:05:19,776: s pressed
+2019-11-21 12:05:19,832: k pressed
+2019-11-21 12:05:19,855: s released
+2019-11-21 12:05:19,887: k released
+2019-11-21 12:05:20,056: y pressed
+2019-11-21 12:05:20,071: y released
+2019-11-21 12:05:20,256: . pressed
+2019-11-21 12:05:20,335: . released
+2019-11-21 12:05:20,400: special: Key.space pressed
+2019-11-21 12:05:20,463: special: Key.space released
+2019-11-21 12:05:21,761: special: Key.backspace pressed
+2019-11-21 12:05:21,840: special: Key.backspace released
