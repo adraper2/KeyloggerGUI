@@ -12,7 +12,7 @@ end_of_fable = [[107, 234, 400], [97, 221, 376], [101, 223, 384], [126, 244, 410
 				[108, 233, 408], [105, 223, 381], [101, 233, 385], [107, 225, 372], [114, 234, 397], [115, 245, 407],
 				[106, 236, 396], [103, 219, 391], [97, 215, 367], [105, 228, 414], [101, 236, 419], [124, 276, 438]]
 
-user_list = list(itertools.chain.from_iterable(itertools.repeat(x, 3) for x in range(1,11)))
+user_list = list(itertools.chain.from_iterable(itertools.repeat(x, 3) for x in range(0,11)))
 
 def Filter(ls): 
 	return [str for str in ls if re.match(r'\d{4}-\d{3}-\d{3}.log', str)]
@@ -83,11 +83,17 @@ def main():
 
 		for i, line in enumerate(data):
 			current = line.replace(" special:", "").replace("Key.", "").replace("_r", ""). \
-				replace("_l", "").replace(",", ".").lower().split(" ")
+				replace("_l", "").lower().split(" ")
+			current[1] = current[1].replace(',', '.')
+			current[2] = current[2].replace(",", "comma")
+
 			if current[3] == "pressed":
 				for j in range(i+1, len(data)):
 					current_inner = data[j].replace(" special:", "").replace("Key.", ""). \
-						replace("_r", "").replace("_l", "").replace(",", ".").lower().split(" ")
+						replace("_r", "").replace("_l", "").lower().split(" ")
+					current_inner[1] = current_inner[1].replace(',', '.')
+					current_inner[2] = current_inner[2].replace(",", "comma")
+
 					if (current_inner[2] == current[2]):
 						if current_inner[3] == "released":
 							temp.append([current, current_inner])
