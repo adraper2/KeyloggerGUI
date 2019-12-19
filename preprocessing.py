@@ -47,7 +47,8 @@ def append_data():
 			next_it +=4
 		csv.insert(0, "user", [str(user_list[ind])] * len(csv))
 		# arguably the worst line of code I've ever written (I apologize)
-		csv.insert(1, "session", ([str(next_it)] * (end_of_fable[ind][0]-1)) + ([str(next_it+1)] * ((end_of_fable[ind][1]-1)-(end_of_fable[ind][0]-1))) + ([str(next_it+2)] * ((end_of_fable[ind][2]-1)-(end_of_fable[ind][1]-1))) + ([str(next_it+3)] * ((len(csv)+1)-end_of_fable[ind][2])))
+		csv.insert(1, "session", ([str(next_it)] * (end_of_fable[ind][0]-1)) + ([str(next_it+1)] * ((end_of_fable[ind][1]-1)-(end_of_fable[ind][0]-1))) + \
+			([str(next_it+2)] * ((end_of_fable[ind][2]-1)-(end_of_fable[ind][1]-1))) + ([str(next_it+3)] * ((len(csv)+1)-end_of_fable[ind][2])))
 	full_csv = pd.concat(full_csv)
 
 	# normalize timepress and timerelease to unique user + session
